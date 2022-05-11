@@ -91,7 +91,8 @@ for proto in nm[host].all_protocols():
 		else:
 			puertos_abiertos=puertos_abiertos+","+str(port)
 
-print("\nPuertos abiertos: "+ puertos_abiertos +" "+str(host))````
+print("\nPuertos abiertos: "+ puertos_abiertos +" "+str(host))
+```
 
 # Proyectos
 [Home](index.md) | [Repositorios](repositorios) | [Proyectos](proyectos) | [Contacto](contacto)
