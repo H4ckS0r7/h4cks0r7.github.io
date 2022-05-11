@@ -1,3 +1,5 @@
+# Proyectos
+[Home](index.md) | [Proyectos](proyectos)
 # Manual de instrucciones de Scan
 ![Añadir un subtítulo](https://user-images.githubusercontent.com/96842235/167315668-5b6290ae-3acd-451e-abb4-10b2fd353a23.png)
 
@@ -94,8 +96,6 @@ for proto in nm[host].all_protocols():
 print("\nPuertos abiertos: "+ puertos_abiertos +" "+str(host))
 ```
 
-# Proyectos
-[Home](index.md) | [Repositorios](repositorios) | [Proyectos](proyectos) | [Contacto](contacto)
 ## Hidden Web Server
 Estoy seguro de que alguna vez has echo un ```sudo service apache2/nginx start``` para crear un servidor web, pero, lo has echo en la red Tor? Pues aqui te enseñamos como.
 Paso 1: Edita tu archivo *torrc* y añade estas dos lineas 
