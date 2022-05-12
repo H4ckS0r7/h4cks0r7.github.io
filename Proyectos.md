@@ -1,5 +1,6 @@
-# Proyectos
 [Home](index.md) | [Proyectos](Proyectos) | [Sobre nosotros](sobrenosotros) | [H4ck2P](h4ck2p) | [S3RGI09](https://s3rgi09.github.io/)
+
+# Proyectos
 ## Hidden Web Server
 Estoy seguro de que alguna vez has echo un ```sudo service apache2/nginx start``` para crear un servidor web, pero, lo has echo en la red Tor? Pues aqui te enseñamos como.
 Paso 1: Edita tu archivo *torrc* y añade estas dos lineas 
