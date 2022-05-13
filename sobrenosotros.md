@@ -1,7 +1,5 @@
 [Home](index.md) | [Proyectos](Proyectos) | [Sobre nosotros](sobrenosotros) | [H4ck2P](h4ck2p) | [S3RGI09](https://s3rgi09.github.io/)
 
 # Sobre nosotros
-Somos una comunidad que hacemos todo lo posible por crear herramientas para hacking. Hacemos herramientas con distintos lenguajes de programacion, como
-Java, Python, Bash y Ruby. Siempre hacemos todos lo posible por limpiar la red de hackers. Seremos sinceros, hemos hackeado varias webs que publicaban o vendian
-cosas ilegales con ataques de denegacion de servicios distribuidos. Si quieres unirte, create un perfil en github, aqui se puede unir cualquiera y todo el
-mundo puede cotribuir al desarrollo de las herramientas
+Somos una comunidad que hacemos muchas cosas, mepecemos por lo primero: crear herramientas para hacking. Hacemos herramientas con distintos lenguajes de programacion, como Java, Python, Bash, Lua y Ruby. Siempre hacemos todos lo posible por limpiar la red de hackers. Seremos sinceros, hemos hackeado varias webs que publicaban o vendian cosas ilegales con ataques de denegacion de servicios distribuidos **DDoS** *(el UfoNet de toda la vida)*. Si quieres unirte, create un perfil en github, aqui se puede unir cualquiera y todo el mundo puede cotribuir al desarrollo de las herramientas.
+Tambien apoyamos a varias comunidades y proyectos como **Nmap**, **Python**, **Raspberry Pi**, el**Proyecto Debian**, el **Proyecto GNU**, la **Linux Foundation** o la **reeBSD Foundation**. En general, apoyamos al software libre y estamos en contra del espionaje, robos de datos, y creemos en la independencia de internet, los derechos a la privacidad y la libertad de expresion. 
