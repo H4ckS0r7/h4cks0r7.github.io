@@ -10,4 +10,5 @@ El script funciona gracias a [**ClamAV**](http://www.clamav.net/), uno de los me
 ##### ¿Como lo descargo?
 * Puede descargarlo entrando a su terminal de comandos y escribir ```git clone https://github.com/H4ckS0r7/RmCodeX```.
 * Tambien puede descargar el .zip haciendo clik en este boton:
+
 [![](https://raw.githubusercontent.com/wiki/zaproxy/zaproxy/images/ZAP-Download.png)](https://github.com/H4ckS0r7/RmCodeX/archive/refs/heads/main.zip)
